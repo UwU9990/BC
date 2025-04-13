@@ -5,7 +5,9 @@ This is a recreation of the old website botclient.tk because it died that I know
 '''python
 pip install discord
 pip install tkinter
-python main.py'''
+python main.py
+'''
 OR
 '''python
-py main.py'''
+py main.py
+'''
