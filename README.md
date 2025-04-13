@@ -3,7 +3,7 @@ This is a recreation of the old website botclient.tk because it died that I know
 
 # Installation
 ```python
-pip install discord
+pip install discord.py
 pip install tkinter
 python main.py
 ```
